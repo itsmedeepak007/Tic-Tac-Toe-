@@ -1,6 +1,4 @@
 
-# coding: utf-8
-
 # # Milestone Project 1: Walkthrough Steps Workbook
 # 
 # Below is a set of steps for you to follow to try to create the Tic Tac Toe Milestone Project game!
